@@ -1,0 +1,21 @@
+body {
+    background-color: #000;
+    color: yellowgreen;
+    font-family: arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 6em;
+}
+
+.clock {
+    font-size: 4em;
+    margin: 20px auto;
+}
+
+.clock span {
+    background: #333;
+    padding: 20px;
+}
+
